@@ -19,8 +19,10 @@ innovation and impact.
 - Performance validation
 
 ## Intellectual Property & Publication
-- Research article under publication in STM Journal
-- Patent filing planned (technical details intentionally abstracted)
+- 📄 Research paper **accepted for publication** in the
+  *Journal of Instrumentation Technology & Innovations*
+  (STM Journals), Volume ___, Issue 1, 2026
+- 🔒 Patent filing planned; technical details intentionally abstracted
 
 ## Note
 This repository presents a high-level analytical view only and does not disclose
