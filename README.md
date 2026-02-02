@@ -35,5 +35,5 @@ EDA, feature engineering & model comparison showing business thinking & ML skill
 
 ### A/B Testing on User Engagement
 Experimentation & statistics applied to real-world problems.
-🔗 https://github.com/maitreyeekulkarni02/projects/ab-testing-user-engagement
+🔗 https://github.com/maitreyeekulkarni02/microsoft-ds-portfolio/tree/main/projects/ab-testing-user-engagement
 
