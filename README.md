@@ -22,3 +22,18 @@ Python | Machine Learning | Data Analysis | Statistics | Experimentation | Git
 - 🏆 DIPEX 2025 – WATI State-Level Winner
 - 📄 Research papers under journal publication (STM Journal)
 - 🎓 B.Tech in Artificial Intelligence & Data Science
+
+## Projects
+
+### AI Voice Detection Tool
+A machine learning system to detect AI-generated speech — complete with notebooks, code, results & recognition.
+🔗 https://github.com/maitreyeekulkarni02/ai-voice-detection-tool
+
+### Customer Churn Prediction
+EDA, feature engineering & model comparison showing business thinking & ML skills.
+🔗 https://github.com/maitreyeekulkarni02/customer-churn-prediction
+
+### A/B Testing on User Engagement
+Experimentation & statistics applied to real-world problems.
+🔗 https://github.com/maitreyeekulkarni02/projects/ab-testing-user-engagement
+
