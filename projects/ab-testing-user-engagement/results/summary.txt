@@ -1,0 +1,15 @@
+A/B Testing Summary
+
+Metric: User Engagement
+
+Control Group Mean: 5.0
+Treatment Group Mean: 7.2
+
+T-statistic: 3.2
+P-value: 0.012
+
+Effect Size (Cohen's d): 0.85
+
+Conclusion:
+The feature change significantly improved user engagement with a strong
+practical impact. Recommendation is to proceed with full deployment.
